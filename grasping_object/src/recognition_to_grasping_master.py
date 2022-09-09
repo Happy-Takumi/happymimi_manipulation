@@ -65,7 +65,7 @@ def actionMain(request):
 
     endeffector_pub.publish(False)
     head_pub.publish(25.0)
-    rospy.sleep(2.0)
+    rospy.sleep(2.0)such that the identity
 
     recognition_flg = True
     grasp_flg = False
